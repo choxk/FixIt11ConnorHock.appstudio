@@ -11,7 +11,7 @@ lstFoods.onclick=function(choice){
 if (typeof(choice) == "object") {
 return
 } else {
-NSB.MsgBox("You picked " + goodFoods[choice] + " - " + " thats a great choice!")
+NSB.MsgBox("You picked " + goodFoods[choice] + " - " + " that's a great choice!")
 }
 }
 

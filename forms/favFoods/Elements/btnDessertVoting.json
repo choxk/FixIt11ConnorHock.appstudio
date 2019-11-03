@@ -29,7 +29,7 @@
   "icon": "", 
   "iconTitle": "", 
   "id": "btnDessertVoting", 
-  "left": 232, 
+  "left": 208, 
   "mAll": "", 
   "mBottom": "", 
   "mLeft": "", 
@@ -60,7 +60,7 @@
   "size": " btn-md", 
   "style": "", 
   "toggleControl": "", 
-  "top": 384, 
+  "top": 400, 
   "value": "Next Page", 
   "width": "auto"
 }
