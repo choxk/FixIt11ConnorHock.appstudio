@@ -1,6 +1,6 @@
 {
   "!type": "Listgroup_bs4", 
-  "appearances": "default\nsuccess\ninfo\ndanger", 
+  "appearances": "default\ndefault\ndefault\ndefault", 
   "backgroundColor": "", 
   "bottom": "auto", 
   "cached_js": "", 
